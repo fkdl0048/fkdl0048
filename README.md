@@ -17,10 +17,12 @@ Please contact me a lot.
 - 🌱 I'm currently learning Client Development  
 - 📝 I post my study and development on my [Blog](https://fkdl0048.github.io/)  
 
-The blog I'm developing and studying is...  
-[This Click!](https://fkdl0048.github.io/)  
+<br>
+The blog I'm developing and studying is [This Click!](https://fkdl0048.github.io/)  
 Please visit and follow me a lot.  
 Thank you  
+
+
 <!--
 **fkdl0048/fkdl0048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
