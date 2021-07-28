@@ -22,12 +22,10 @@ The blog I'm developing and studying is
 Please visit and follow me a lot.  
 Thank you  
 
+<br>
 
 <!--
 **fkdl0048/fkdl0048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
-
-<br>
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
