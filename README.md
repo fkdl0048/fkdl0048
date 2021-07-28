@@ -3,13 +3,13 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fkdl000048@gmail.com)](mailto:fkdl000048@gmail.com)  
 
 ---
-### Hello, I'm jeongan Lee!! 
+###  Hello, I'm jeongan Lee!! 
 I am a client developer from Korea.
 I am very interested in game development.
 
 Please contact me a lot.
 
-### Experience
+### :star: Experience
 -
 
 ### Summary
