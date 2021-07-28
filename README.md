@@ -13,7 +13,7 @@ Please contact me a lot.
 ### Summary
 - 🔭 I am currently attending a university.  
 - 🌱 I'm currently learning Client Development  
-- 📝 I post my study and development on my blog.  
+- 📝 I post my study and development on my [Blog](https://fkdl0048.github.io/)  
 
 The blog I'm developing and studying is...  
 [This Click!](https://fkdl0048.github.io/)  
