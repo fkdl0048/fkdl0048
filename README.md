@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Hello, I'm jenogan Lee!! 
+### Hello, I'm jeongan Lee!! 
 
 I am a client developer from Korea.
 I am very interested in game development.
