@@ -1,5 +1,24 @@
 ### Hi there 👋
 
+### Hello, I'm jenogan Lee!! 
+
+I am a client developer from Korea.
+I am very interested in game development.
+
+Please contact me a lot.
+
+### Experience
+-
+
+### Summary
+- 🔭 I am currently attending a university.  
+- 🌱 I'm currently learning Client Development  
+- 📝 I post my study and development on my blog.  
+
+The blog I'm developing and studying is...  
+[This Click!](https://fkdl0048.github.io/)  
+Please visit and follow me a lot.  
+Thank you  
 <!--
 **fkdl0048/fkdl0048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +33,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Client Development..  
+ 
 
-The blog I'm developing and studying is...  
-[This Click!](https://fkdl0048.github.io/) 
-Please visit and follow me a lot. 
-Thank you
+
