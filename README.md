@@ -24,7 +24,9 @@ Thank you
 
 
 <!--
-**fkdl0048/fkdl0048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**fkdl0048/fkdl0048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
+
+<br>
 
 Here are some ideas to get you started:
 
@@ -38,5 +40,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/fkdl0048/github-readme-stats)
+[![fkdl0048 GitHub stats](https://github-readme-stats.vercel.app/api?username=fkdl0048)](https://github.com/fkdl0048/github-readme-stats)
 
