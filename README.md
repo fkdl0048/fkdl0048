@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://fkdl0048.github.io/)
 ### Hello, I'm jeongan Lee!! 
 
 I am a client developer from Korea.
