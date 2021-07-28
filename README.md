@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning Client Development..  
+
+The blog I'm developing and studying is...  
+[This Click!](https://fkdl0048.github.io/) 
+Please visit and follow me a lot. 
+Thank you
+
+- 
