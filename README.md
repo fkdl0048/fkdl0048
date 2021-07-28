@@ -1,6 +1,6 @@
 ### Hi there 👋
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://fkdl0048.github.io/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:fkdl000048@gmail.com)  
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://fkdl0048.github.io/)](https://fkdl0048.github.io/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fkdl000048@gmail.com)](mailto:fkdl000048@gmail.com)  
 
 ---
 ### Hello, I'm jeongan Lee!! 
