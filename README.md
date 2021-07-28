@@ -19,7 +19,6 @@ Please contact me a lot.
 
 <br>
 The blog I'm developing and studying is
-[This Click!](https://fkdl0048.github.io/)
 Please visit and follow me a lot.  
 Thank you  
 
