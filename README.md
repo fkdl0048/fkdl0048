@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fkdl000048@gmail.com)](mailto:fkdl000048@gmail.com)  
 
 <img src="https://img.shields.io/badge/c-#A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/GIT-#F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/GIT-#F05032?style=flat-square&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 ---
 ### :smiley: Hello, I'm jeongan Lee!! 
