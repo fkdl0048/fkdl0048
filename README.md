@@ -2,7 +2,8 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://fkdl0048.github.io/)](https://fkdl0048.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fkdl000048@gmail.com)](mailto:fkdl000048@gmail.com)  
 
-<img src="https://img.shields.io/badge/GIT-#F05032?style=flat-square&logo=GIT&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/기술이름-#제외색상번호?style=for-the-badge&logo=아이콘이름&logoColor=white">
+<img src="https://img.shields.io/badge/GIT-#F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 ---
 ### :smiley: Hello, I'm jeongan Lee!! 
