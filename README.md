@@ -4,7 +4,7 @@
 
 ---  
 
-<img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=Git&logoColor=white"><img src="https://img.shields.io/badge/UNITY-000000?style=flat-square&logo=Unity&logoColor=white">  
+<img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=Git&logoColor=white"><img src="https://img.shields.io/badge/UNITY-000000?style=flat-square&logo=Unity&logoColor=white"> <img src="https://img.shields.io/badge/42-000000?style=flat-square&logo=42&logoColor=white">
 
 ### :smiley: Hello, I'm jeongan Lee!! 
 I am a client developer from Korea.
