@@ -6,19 +6,7 @@
 
 <img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=Git&logoColor=white"><img src="https://img.shields.io/badge/UNITY-000000?style=flat-square&logo=Unity&logoColor=white"><img src="https://img.shields.io/badge/42-000000?style=flat-square&logo=42&logoColor=white">
 
-### :smiley: Hello, I'm jeongan Lee!! 
-I am a client developer from Korea.
-I am very interested in game development.
-
-Please contact me a lot.
-
-### :star: Experience
--
-
-### :boom: Summary
-- 🔭 I am currently attending a university.  
-- 🌱 I'm currently learning Client Development  
-- 📝 I post my study and development on my [Blog](https://fkdl0048.github.io/)  
+indie game developer
 
 <br>
 The blog I'm developing and studying is
