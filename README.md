@@ -3,7 +3,7 @@
 
 ## **Indie Game Developer**
 
-Sejong University 
+Sejong University  
 42Seoul Cadet 5th  
 SGM(SmileGatIndieGameMembership) 14th  
 Bridge 10th 
