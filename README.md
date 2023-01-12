@@ -9,8 +9,3 @@ SGM(SmileGatIndieGameMembership) 14th
 Bridge 10th 
 
 ## Project  
-
-
-
- <br><br>
-[![fkdl0048 GitHub stats](https://github-readme-stats.vercel.app/api?username=fkdl0048)](https://github.com/fkdl0048/github-readme-stats)
