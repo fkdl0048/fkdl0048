@@ -7,21 +7,3 @@ Sejong University
 42Seoul Cadet 5th  
 SGM(SmileGatIndieGameMembership) 14th  
 Bridge 10th 
-
-## Project  
-
-[SmileCherry](https://github.com/fkdl0048/Project-SmileCherry)  
-[Nostalgia](https://github.com/fkdl0048/Project-Nostalgia)  
-
-## Side Project
-
-### GameJam  
-
-[Garbage-Game](https://github.com/fkdl0048/Garbage_Game)  
-[Beaver_Dam](https://github.com/fkdl0048/Beaver_Dam)  
-[te2ris](https://github.com/ray1203/te2ris)  
-
-### StudyProject  
-
-[Unity-ReInputSystem](https://github.com/BRIDGE-DEV/Unity_Custom_Editor_Study)   
-[c_roguelike_sw](https://github.com/fkdl0048/c_roguelike_sw)    
