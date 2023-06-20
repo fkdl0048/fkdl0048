@@ -7,3 +7,7 @@ Sejong University
 42Seoul Cadet 5th  
 SGM(SmileGatIndieGameMembership) 14th  
 Bridge 10th 
+
+## Project
+
+[Notion](https://www.notion.so/Jeonglee-46d882eee80247caaa082a6a3a30a5bc?pvs=4)
