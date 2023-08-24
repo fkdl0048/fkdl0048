@@ -12,4 +12,4 @@ Bridge 10th
 
 ### [Project](https://www.notion.so/Jeonglee-46d882eee80247caaa082a6a3a30a5bc?pvs=4)
 
-### [Blog](https://fkdl0048.github.io/)https://fkdl0048.github.io/
+### [Blog](https://fkdl0048.github.io/)
