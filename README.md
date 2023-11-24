@@ -8,8 +8,8 @@ Sejong University
 SGM(SmileGatIndieGameMembership) 14th  
 Bridge 10th 
 
+### [Blog](https://fkdl0048.github.io/)
+
 ### [Schedule](https://github.com/users/fkdl0048/projects/5)
 
-### [Project](https://www.notion.so/Jeonglee-46d882eee80247caaa082a6a3a30a5bc?pvs=4)
-
-### [Blog](https://fkdl0048.github.io/)
+### [Portfolio](https://www.notion.so/Jeonglee-46d882eee80247caaa082a6a3a30a5bc?pvs=4)
