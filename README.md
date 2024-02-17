@@ -5,7 +5,7 @@
 
 Sejong University  
 42Seoul Cadet 5th  
-SGM(SmileGatIndieGameMembership) 14th  
+SGM(SmileGateIndieGameMembership) 14th  
 Bridge 10th 
 
 ### [Blog](https://fkdl0048.github.io/)
