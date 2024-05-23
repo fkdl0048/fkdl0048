@@ -13,4 +13,4 @@ UNSEEN 2nd
 
 ### [Schedule](https://github.com/users/fkdl0048/projects/5)
 
-### [Portfolio](https://www.notion.so/Jeonglee-46d882eee80247caaa082a6a3a30a5bc?pvs=4)
+### [Portfolio](https://dust-sugar-09a.notion.site/46d882eee80247caaa082a6a3a30a5bc?pvs=74)
