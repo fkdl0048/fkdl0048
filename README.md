@@ -10,6 +10,7 @@ Sejong University
 SGM(SmileGateIndieGameMembership) 14th  
 Bridge 10th  
 UNSEEN 2nd
+GameMakers 9th
 
 ### [Blog](https://fkdl0048.github.io/)
 
