@@ -3,9 +3,9 @@
 <!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://fkdl0048.github.io/)](https://fkdl0048.github.io/)   -->
 <!-- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fkdl000048@gmail.com)](mailto:fkdl000048@gmail.com)  -->
 
-- <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">
-- <img src="https://img.shields.io/badge/Unreal-FFFFFF?style=for-the-badge&logo=unrealengine&logoColor=black">
-- <img src="https://img.shields.io/badge/Godot-FFFFFF?style=for-the-badge&logo=godotengine&logoColor=black">
+- Unity
+- Unreal
+- Godot
 
 ## Experiences
 
@@ -26,5 +26,6 @@
 
 - [BookReview](https://github.com/fkdl0048/BookReview)
 - [CodeReview](https://github.com/fkdl0048/CodeReview)
+- [Algorithm](https://github.com/fkdl0048/Algorithm)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/fkdl000048)
