@@ -19,7 +19,6 @@
 ## Links
 
 - [Blog](https://fkdl0048.github.io/)
-- [Portfolio](https://dust-sugar-09a.notion.site/46d882eee80247caaa082a6a3a30a5bc?pvs=74)
 - [Schedule](https://github.com/users/fkdl0048/projects/5)
 
 ## Study
